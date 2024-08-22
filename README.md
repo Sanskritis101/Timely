@@ -1,4 +1,4 @@
-# timetable_manager
+# Timely: the smarter timetable manager
 It is a flutter based cross-platform desktop application which primarily aims at reducing the manhours wasted on the scheduling of lectures in an academic institution. The application is aimed to serve the timetable coordinator and the authorities that actually approve the created timetables.
 <ol>
 <li>It is able to take the inputs as List of professors with their subject preferences and work hours allocated on a weekly basis. Also for a particular department the infrastructure that is allocated like classrooms, labs, etc.
