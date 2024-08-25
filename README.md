@@ -6,4 +6,5 @@ It is a flutter based cross-platform desktop application which primarily aims at
 <li>Upon completion of allocations the app generates class-wise, department-wide, individual professor’s and classroom’s timetables within a split second.
 <li>If timetable coordinator is not convinced by the generated timetable they have an ability to regenerate the timetable.
 </ol>
-![TimeTable_Scheduler-3-2-2](https://github.com/user-attachments/assets/6f368c34-52d5-4e84-a7bc-1ee3505a2d9a)
+![Timely](https://github.com/Sanskritis101/Timely/blob/main/TimeTable_Scheduler-3-2-2.jpg?raw=true)
+
